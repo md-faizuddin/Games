@@ -1,2 +1,2 @@
-# Python-games
-Developing python games.
+This is my game repository,
+follow for more.
