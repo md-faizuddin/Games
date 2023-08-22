@@ -1,7 +1,6 @@
 """Fidget, inspired by fidget spinners.
 
 Exercises
-
 1. Change the spinner pattern.
 2. Respond to mouse clicks.
 3. Change its acceleration.
