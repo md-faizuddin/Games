@@ -7,7 +7,6 @@ Exercises
 3. Change its acceleration.
 4. Make it go forwards and backwards.
 """
-
 from turtle import *
 
 state = {'turn': 0}
