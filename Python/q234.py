@@ -7,7 +7,7 @@ if answer.lower ()=='yes':
     answer=input ('Question 1: What is your Favourite programming language?')
     if answer.lower ()=='python':
         score += 1
-        print ('correct')
+        print ('correct') 
     else:
         print ('Wrong Answer : (')
 
