@@ -4,7 +4,7 @@ Excercises
 
 1. Keep score by counting taps.
 2. Make the maze harder.
-3. Generate the same maze twice.
+3. Generate the same maze twice. 
 """
 
 from random import random
