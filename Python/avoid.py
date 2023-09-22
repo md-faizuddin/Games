@@ -15,7 +15,7 @@ from freegames import vector
 north, south = vector(0, 4), vector(0, -4)
 east, west = vector(4, 0), vector(-4, 0)
 options = north, south, east, west
-
+ 
 player = vector(0, 0)
 aim = choice(options).copy() 
 bombs = []
