@@ -17,7 +17,7 @@ east, west = vector(4, 0), vector(-4, 0)
 options = north, south, east, west
 
 player = vector(0, 0)
-aim = choice(options).copy()
+aim = choice(options).copy() 
 bombs = []
 speeds = []
 
