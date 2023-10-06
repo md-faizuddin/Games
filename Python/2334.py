@@ -4,7 +4,7 @@ import random
 
 class Board:
     bg_color={
-
+ 
         '2': '#eee4da',
         '4': '#ede0c8',
         '8': '#edc850',
