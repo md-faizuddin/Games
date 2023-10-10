@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random
 
 class Board:
-    bg_color={
+    bg_color={ 
  
         '2': '#eee4da',
         '4': '#ede0c8',
