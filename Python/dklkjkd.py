@@ -25,7 +25,7 @@ catcher_height = 100
 catcher_startx = canvas_width / 2 - catcher_width / 2
 catcher_starty = canvas_height - catcher_height - 20
 catcher_startx2 = catcher_startx + catcher_width
-catcher_starty2 = catcher_starty + catcher_height
+catcher_starty2 = catcher_starty + catcher_height 
 
 catcher = c.create_arc(catcher_startx, catcher_starty, catcher_startx2, catcher_starty2, start=200, extent=140, style="arc", outline=catcher_color, width=3)
 game_font = font.nametofont("TkFixedFont")
