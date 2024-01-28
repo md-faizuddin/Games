@@ -14,7 +14,7 @@ c.pack()
 
 color_cycle = cycle(["light blue", "light green", "light pink", "light yellow", "light cyan"])
 egg_width = 45
-egg_height = 55
+egg_height = 55 
 egg_score = 10
 egg_speed = 500
 egg_interval = 4000
