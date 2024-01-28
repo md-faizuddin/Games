@@ -29,7 +29,7 @@ catcher_starty2 = catcher_starty + catcher_height
 
 catcher = c.create_arc(catcher_startx, catcher_starty, catcher_startx2, catcher_starty2, start=200, extent=140, style="arc", outline=catcher_color, width=3)
 game_font = font.nametofont("TkFixedFont")
-game_font.config(size=18)
+game_font.config(size=18) 
 
 
 score = 0
