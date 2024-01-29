@@ -213,7 +213,7 @@ class Game:
 
 
 gamepanel =Board() 
-game2048 = Game( gamepanel)
+game2048 = Game( gamepanel) 
 game2048.start()
 
 # Coded with 💙 by Mr. Unity Buddy
