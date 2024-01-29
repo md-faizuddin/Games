@@ -48,7 +48,7 @@ def create_egg():
     root.after(egg_interval, create_egg)
 
 def move_eggs():
-    for egg in eggs:
+    for egg in eggs: 
         (eggx, eggy, eggx2, eggy2) = c.coords(egg)
         c.move(egg, 0, 10)
         if eggy2 > canvas_height:
