@@ -53,7 +53,7 @@ def move_eggs():
         c.move(egg, 0, 10)
         if eggy2 > canvas_height:
             egg_dropped(egg)
-    root.after(egg_speed, move_eggs)
+    root.after(egg_speed, move_eggs) 
 
 def egg_dropped(egg):
     eggs.remove(egg)
