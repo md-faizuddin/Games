@@ -66,6 +66,7 @@ while user1_Scor < gameRaund and user2_Scor < gameRaund:
 
 print(colored(f_form("Game finished!"), "yellow"))
 
+
 if user1_Scor == gameRaund and gameRaund != 0:
     print(colored(f_form("you win!"), "green"))
 elif user2_Scor == gameRaund and gameRaund != 0:
