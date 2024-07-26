@@ -35,6 +35,7 @@ def tap(x, y):
     else:
         down()
 
+    
     width(2)
     color('red')
     goto(x, y)
