@@ -112,6 +112,7 @@ class Board:
                     return True
         return False
 
+    
     def paintGrid(self):
         for i in range(4):
             for j in range(4):
