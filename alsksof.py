@@ -66,6 +66,7 @@ class Board:
     def transpose(self):
         self.gridCell=[list(t)for t in zip(*self.gridCell)]
 
+    
     def compressGrid(self):
         self.compress=False
         temp=[[0] *4 for i in range(4)]
