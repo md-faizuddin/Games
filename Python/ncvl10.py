@@ -55,6 +55,7 @@ class Board:
         self.gameArea.grid()
 
 
+    
     def reverse(self):
         for ind in range(4):
             i=0
