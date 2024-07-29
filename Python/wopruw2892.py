@@ -79,6 +79,7 @@ class Board:
                     cnt+=1
         self.gridCell=temp
 
+    
     def mergeGrid(self):
         self.merge=False
         for i in range(4):
