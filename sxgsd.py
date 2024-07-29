@@ -63,6 +63,7 @@ class Board:
                 i+=1
                 j-=1
 
+    
     def transpose(self):
         self.gridCell=[list(t)for t in zip(*self.gridCell)]
 
